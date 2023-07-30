@@ -1,0 +1,9 @@
+// package.json
+// To install Nextjs - https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs
+{
+    "dependencies": {
+        "next": "^12.1.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+      }
+}
